@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(20, 20, 20);
+}
+
+h1 {
+    font-family: georgia, serif;
+    font-size: 400%;
+    text-align: center;
+    background-color: bisque;
+    color: rgb(20, 20, 20);
+}
+
+button {
+    font-family: georgia, serif;
+    font-size: 350%;
+    text-align: center;
+    background-color: rgb(253, 225, 191);
+    padding: 1% 1%;
+    margin: 1% 40%;
+    color: rgb(20, 20, 20);
+    border-radius: 30px;
+    
+}
+
+button:hover {
+    background-color: rgb(253, 186, 115)
+}
